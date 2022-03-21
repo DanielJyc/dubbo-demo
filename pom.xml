@@ -22,7 +22,7 @@
         <dom4j.version>1.6.1</dom4j.version>
         <spring.version>5.2.5.RELEASE</spring.version>
         <commons-httpclient.version>3.0.1</commons-httpclient.version>
-        <dubbo.version>2.5.2</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
         <zkclient.version>0.1</zkclient.version>
         <project.junit.version>4.8.2</project.junit.version>
         <spring.amqp.version>1.2.0.RELEASE</spring.amqp.version>
